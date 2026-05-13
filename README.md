@@ -1,7 +1,6 @@
 # test
-Họ tên
-Năm sinh
-Chuyên ngành
-Công việc hiện tại
-Nơi ở
-Quê quán
+Họ tên: Nguyễn Thị Lan
+Năm sinh: 1999
+Công việc hiện tại: Nhân viên văn phòng
+Nơi ở: Hà Nội
+Quê quán: Thanh Hóa
